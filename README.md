@@ -5,3 +5,10 @@ of these tasks. When done, it should output the average number of steps each
 robot took per task.
 
 
+# Robot efficiency
+
+We have to write a robot that finishes the delivery task faster than goalOrientedRobot.
+
+# Persistent group
+
+
