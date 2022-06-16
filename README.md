@@ -1,14 +1,7 @@
-# Measuring a robot
+# A platform game
 
-Write a function compareRobots that takes two robots. It should generate 100 tasks and let each of the robots solve each
-of these tasks. When done, it should output the average number of steps each
-robot took per task.
+A platform games to have the player start with a limited number of lives and subtract one life each time they die. When the player is out of
+lives, the game restarts from the beginning. In some levels there will be monsters which will move only horizontal. 
+Use left and right arrow key to navigate and jump using up key.
 
-
-# Robot efficiency
-
-We have to write a robot that finishes the delivery task faster than goalOrientedRobot.
-
-# Persistent group
-
-
+Game hosted : [kpratibha.ccbp.tech](https://kpratibha.ccbp.tech/)
